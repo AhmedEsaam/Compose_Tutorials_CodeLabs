@@ -1,4 +1,4 @@
-package com.example.compose_tutorials.compose_essentials
+package com.example.compose_tutorials._1_compose_essentials
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
