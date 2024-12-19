@@ -38,6 +38,6 @@ fun OnboardingScreen(
 @Composable
 fun OnboardingPreview() {
     Compose_TutorialsTheme {
-        OnboardingScreen({})
+        OnboardingScreen(onContinueClicked = {})
     }
 }
